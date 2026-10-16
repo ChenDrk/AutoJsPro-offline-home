@@ -1,0 +1,2 @@
+b640d7100969c5b9d6a6e04e00eb9799c0bce8986b11e6cc16373b8e35e58741  release-assets/AutoJsPro_current_buildkit.zip
+279a9070111720785440a1ee16db025dec0ef8cd624ab21f69d1743d875075c5  release-assets/AutoJsPro_freshkey_279a.apk
